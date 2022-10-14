@@ -1,5 +1,10 @@
 public class Prime
 {
-  public staic void Main(String [] args){
+  public static void Main(String [] args){
+	  
+	  
+	  
+	  
+	  int i=9;
   }
 }
